@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1JguqvikmhPZeLwVPWduKia/ApN9Vwj4oImD42CbB0PraKODMOwU1Qw+hcXQhucqIW0OETDlNomY66NAjDaisQ==",
+  "dgSpecHash": "+XRUb50MVerV0PQp3scFEe9K6qlMD3Ajx9R2vagpGC0YtX3N2PT7hvC5hy8zz4itli+n7s10LzjKcR3ccBDl7w==",
   "success": true,
   "projectFilePath": "/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/SendEmailWithApacheKafka/SendEmailWithApacheKafka.csproj",
   "expectedPackageFiles": [
     "/Users/senaserdar/.nuget/packages/confluent.kafka/1.9.3/confluent.kafka.1.9.3.nupkg.sha512",
     "/Users/senaserdar/.nuget/packages/librdkafka.redist/1.9.2/librdkafka.redist.1.9.2.nupkg.sha512",
+    "/Users/senaserdar/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
     "/Users/senaserdar/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
   ],
   "logs": []
