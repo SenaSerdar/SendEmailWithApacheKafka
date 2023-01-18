@@ -1,14 +1,11 @@
-using Confluent.Kafka;
+﻿using Confluent.Kafka;
 using Newtonsoft.Json;
 using SendEmailWithApacheKafka.Dto;
-
-namespace SendEmailWithApacheKafka;
-
-public class Producer
+public class Program
 {
     static async Task Main(string[] args)
     {
-       await EmailProducerAsync();
+        await EmailProducerAsync();
     }
     public static async Task EmailProducerAsync()
     {
@@ -32,7 +29,7 @@ public class Producer
                     Subject = subject
                 };
                 var emailMessage = JsonConvert.SerializeObject(email);
-                var result = await producer.ProduceAsync("testTopic",new Message<Null, string>{Value = emailMessage});
+                var result = await producer.ProduceAsync("sena",new Message<Null, string>{Value = emailMessage});
                 Console.WriteLine($"Sent:{result.Value} Topic: {result.TopicPartitionOffset} \n");
             }
         }

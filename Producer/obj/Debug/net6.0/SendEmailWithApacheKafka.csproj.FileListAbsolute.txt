@@ -40,3 +40,4 @@
 /Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/SendEmailWithApacheKafka/obj/Debug/net6.0/SendEmailWithApacheKafka.pdb
 /Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/SendEmailWithApacheKafka/obj/Debug/net6.0/SendEmailWithApacheKafka.genruntimeconfig.cache
 /Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/SendEmailWithApacheKafka/obj/Debug/net6.0/ref/SendEmailWithApacheKafka.dll
+/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/SendEmailWithApacheKafka/bin/Debug/net6.0/Newtonsoft.Json.dll

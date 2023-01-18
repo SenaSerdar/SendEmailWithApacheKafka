@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+XRUb50MVerV0PQp3scFEe9K6qlMD3Ajx9R2vagpGC0YtX3N2PT7hvC5hy8zz4itli+n7s10LzjKcR3ccBDl7w==",
+  "dgSpecHash": "uI1drZPhkrf+ICRsFbGv7F9+4v/R9d/mUl2jHaVMRcEyRQEz29JCQ0yOwNoMKW4ctFDSSPSBszHhc2ZQWm6ARg==",
   "success": true,
-  "projectFilePath": "/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/SendEmailWithApacheKafka/SendEmailWithApacheKafka.csproj",
+  "projectFilePath": "/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/Producer/Producer.csproj",
   "expectedPackageFiles": [
     "/Users/senaserdar/.nuget/packages/confluent.kafka/1.9.3/confluent.kafka.1.9.3.nupkg.sha512",
     "/Users/senaserdar/.nuget/packages/librdkafka.redist/1.9.2/librdkafka.redist.1.9.2.nupkg.sha512",

@@ -293,11 +293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/SendEmailWithApacheKafka/SendEmailWithApacheKafka.csproj",
-      "projectName": "SendEmailWithApacheKafka",
-      "projectPath": "/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/SendEmailWithApacheKafka/SendEmailWithApacheKafka.csproj",
+      "projectUniqueName": "/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/Producer/Producer.csproj",
+      "projectName": "Producer",
+      "projectPath": "/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/Producer/Producer.csproj",
       "packagesPath": "/Users/senaserdar/.nuget/packages/",
-      "outputPath": "/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/SendEmailWithApacheKafka/obj/",
+      "outputPath": "/Users/senaserdar/RiderProjects/SendEmailWithApacheKafka/Producer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/senaserdar/.nuget/NuGet/NuGet.Config"
