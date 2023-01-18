@@ -12,3 +12,7 @@ docker run -d --rm -p 9000:9000   --network kafka-network   -e KAFKA_BROKERCONNE
 Sample view of Kafdrop and Topic
 <img width="1324" alt="Screen Shot 2023-01-18 at 10 39 01" src="https://user-images.githubusercontent.com/53566797/213111954-ca89a71f-9991-4279-82ac-60c2355ae458.png">
 
+Create Topic From clı
+
+docker run --rm bitnami/kafka kafka-topics.sh --create --topic firstTopic --replication-factor 1 --partitions 1  --bootstrap-server localhost:9092
+
