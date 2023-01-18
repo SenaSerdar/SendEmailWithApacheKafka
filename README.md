@@ -13,7 +13,7 @@ Sample view of Kafdrop
 
 
 
--you can create a topic with +new and manage ur queues from this UI.  
+-you can create a topic with +new and manage ur queues from this interface.  
 <img width="1324" alt="Screen Shot 2023-01-18 at 10 39 01" src="https://user-images.githubusercontent.com/53566797/213111954-ca89a71f-9991-4279-82ac-60c2355ae458.png">
 
 Create Topic From clı
